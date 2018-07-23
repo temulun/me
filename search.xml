@@ -10,9 +10,4 @@
     <url>%2F2018%2F07%2F23%2F%E6%90%AD%E5%BB%BAHEXO%E9%87%87%E5%9D%91%E8%AE%B0%2F</url>
     <content type="text"><![CDATA[优秀的人，不是不合群，而是他们合群的人里面没有你 安装依赖时可能会报几个依赖包加载失败的错误1$ ERROR Plugin load failed: hexo-renderer-marked ...... 解决办法1$ npm install 当项目提到github仓库时如果没有添加CNAME文件，打开我们所映射的网址github会提示报错 需要在source文件夹下新建CNAME文件，写入映射域名保存重新提交；]]></content>
   </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F07%2F23%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
 </search>
